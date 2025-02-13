@@ -1,5 +1,5 @@
 # Hello, I'm Mina
-<a href="https://https://www.linkedin.com/in/mina-salehi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mina-salehi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a Computer Engineer with a strong passion for cybersecurity, technology, and problem-solving. Currently pursuing my Master’s in Cybersecurity (graduating Fall 2025), I thrive on tackling complex security challenges and developing innovative solutions. My GitHub showcases projects in cybersecurity, automation, scripting, and security tool development. Always eager to learn and collaborate, I look forward to contributing to the ever-evolving world of tech. 🚀
 
